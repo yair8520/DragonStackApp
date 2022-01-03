@@ -29,6 +29,11 @@ Each dragon has unique traits, and belongs to a specific generation.
 
 
 # Home page
+Account Info {Username,Balance}
+Produce a new dragon according to the generation listed above,
+Each account can purchase only one generation dragon
+*A new generation is created once every 30 seconds
+
 ![image](https://user-images.githubusercontent.com/66212863/147926398-c69b0b83-6c58-450e-b96e-eaf5b0994d25.png)
 ![image](https://user-images.githubusercontent.com/66212863/147926428-11563a88-e545-4e31-9f3b-19321fecf67b.png)
 
@@ -36,9 +41,13 @@ Each dragon has unique traits, and belongs to a specific generation.
 
 
 # Account Dragons Page
-![image](https://user-images.githubusercontent.com/66212863/147926215-08e0c8ea-eed1-49e7-8c80-209fb4238f91.png)
+List of dragons purchased for this account
+The user can change the name of the dragon, price , sire value and public/private
 
+![image](https://user-images.githubusercontent.com/66212863/147926687-f487d86b-5ac9-4b62-bb94-a608694c82d3.png)
 
 
 # Public Dragons Page
+List of public dragons for purchase or pairing
+
 ![image](https://user-images.githubusercontent.com/66212863/147926289-9d512eb7-c804-4811-b611-c8649c33048d.png)
