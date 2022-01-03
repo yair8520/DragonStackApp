@@ -9,7 +9,7 @@
    
    4.secure authentication
 
-## Dragonstack Project 
+## About the project
 multi-account collector’s application for gathering dragons.
 You can trade, purchase, and breed your dragons
 By selling dragons, you earn currency. 
