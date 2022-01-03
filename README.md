@@ -18,6 +18,7 @@ Each dragon has unique traits, and belongs to a specific generation.
 
 
 ## how to run:
+
    1.configure the database and run the backend - cd server -> npm i -> npm run config -> num run dev
 
    2. run the frontend                          - cd client -> npm i -> npm start
